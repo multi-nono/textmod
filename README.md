@@ -8,7 +8,7 @@ It's perfect for:
 - Waypoints
 - Custom map decorations
 
-💡 **Original idea by [nono]**
+💡 **Original idea by [multi-nono]**
 
 ---
 
